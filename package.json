@@ -1,0 +1,9 @@
+{
+  "name": "kss-test",
+  "version": "1.0.0",
+  "author": "rcaracaus@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "kss": "^2.1.0"
+  }
+}
